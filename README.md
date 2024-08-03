@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me wongcolin45@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have never touched grass.
 
 <!---
 wongcolin45/wongcolin45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
