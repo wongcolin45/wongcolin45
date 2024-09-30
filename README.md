@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wongcolin45
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning EXPRESS JS & SQLITE.
+- 🌱 I’m currently learning EXPRESS JS.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me wongcolin45@gmail.com
 - 😄 Pronouns: He/Him
