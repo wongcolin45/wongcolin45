@@ -1,6 +1,12 @@
 ## 👋 About Me
 
-I'm a Computer Science student at **Northeastern University**, pursuing a **B.S. in Computer Science** with a concentration in **Software**.  
+CS student @ Northeastern ('27), currently on co-op at Philips
+building medical device software in React + TypeScript + .NET.
+
+Interested in full-stack systems where the UX actually matters.
+Into: TypeScript, distributed systems, making things fast.
+
+Boston, MA
 
 
 
