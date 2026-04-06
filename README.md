@@ -12,6 +12,6 @@
 
 ## ⚡ Interests
 
-Backend engineering · Distributed systems · Performance optimization · Making things fast
+Backend engineering · DevOps/Cloud · Distributed systems · Performance optimization · Making things fast
 
 
