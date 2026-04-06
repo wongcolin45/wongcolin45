@@ -1,8 +1,6 @@
 # Hey, I'm Colin 👋
 
-> CS student @ Northeastern ('27) · Boston, MA · Backend & Systems guy
-
----
+> CS student @ Northeastern ('27) · Boston, MA | SF, CA
 
 ## 🌱 Currently
 
