@@ -4,17 +4,11 @@
 
 ---
 
-## 🏢 Experience
+## 🌱 Currently
 
 🏥 **Software Engineering Co-op** @ Philips — patient monitoring systems team
 
 🏛️ **Software Developer** @ Northeastern University Student Government
-
----
-
-## 🌱 Currently
-
-📚 Finishing up my CS degree @ Northeastern Khoury College
 
 ---
 
