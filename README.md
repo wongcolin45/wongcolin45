@@ -6,7 +6,9 @@ I'm a Junior Computer Science student @ Northeastern University
 ## Current Experience
 
 📦 **Incoming SDE Intern @ Amazon Robotics** — AFT Inventory Management
+
 🏥 **SWE Co-op @ Philips** — patient monitoring systems · PIC iX  
+
 🏛️ **Software Developer @ Northeastern Student Government**
 
 ---
