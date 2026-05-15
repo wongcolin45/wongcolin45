@@ -1,17 +1,13 @@
-# hey, I'm Colin 👋
+# Hey, I'm Colin 👋
 
-> CS @ Northeastern '27 · Software Engineering · Boston & SF
+I'm a Junior Computer Science student @ Northeastern University 
 
 ---
+## Current Experience
 
-## now
-
+📦 **Incoming SDE Intern @ Amazon Robotics** — AFT Inventory Management
 🏥 **SWE Co-op @ Philips** — patient monitoring systems · PIC iX  
 🏛️ **Software Developer @ Northeastern Student Government**
-
-## this summer
-
-📦 **SDE Intern @ Amazon Robotics** — AFT Inventory Management
 
 ---
 
@@ -21,4 +17,3 @@
 
 ---
 
-*always looking for hard problems to dig into*
