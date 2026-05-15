@@ -1,34 +1,24 @@
-<div align="center">
+# hey, I'm Colin 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Colin+%F0%9F%91%8B" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Northeastern-'27-CC0000?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boston%2C_MA-📍-378ADD?style=flat-square" />
-  <img src="https://img.shields.io/badge/SF%2C_CA-📍-1D9E75?style=flat-square" />
-</p>
-
-</div>
+> CS @ Northeastern '27 · Software Engineering · Boston & SF
 
 ---
 
-### 🔨 Currently Building
+## now
 
-| | Role | Team |
-|---|---|---|
-| 🏥 | **SWE Co-op** @ [Philips](https://www.philips.com) | Patient monitoring · PIC iX |
-| 🏛️ | **Software Developer** @ Northeastern Student Government | Internal tools & systems |
+🏥 **SWE Co-op @ Philips** — patient monitoring systems · PIC iX  
+🏛️ **Software Developer @ Northeastern Student Government**
 
----
+## this summer
 
-### ☀️ This Summer
-
-| | Role | Team |
-|---|---|---|
-| 📦 | **SDE Intern** @ [Amazon Robotics](https://www.amazonrobotics.com) | AFT Inventory Management |
+📦 **SDE Intern @ Amazon Robotics** — AFT Inventory Management
 
 ---
 
-<div align="center">
-  <sub>Always looking for hard problems to dig into · open to connecting with engineers and builders</sub>
-</div>
+![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*always looking for hard problems to dig into*
