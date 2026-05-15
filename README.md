@@ -1,17 +1,1 @@
-# Hey, I'm Colin 👋
-
-> CS student @ Northeastern ('27) · Boston, MA | SF, CA
-
-## 🌱 Currently
-
-🏥 **Software Engineering Co-op** @ Philips — patient monitoring systems team
-
-🏛️ **Software Developer** @ Northeastern University Student Government
-
----
-
-## ⚡ Interests
-
-Backend engineering · Distributed systems · Performance optimization · Making things fast
-
-
+<img width="1440" height="1280" alt="image" src="https://github.com/user-attachments/assets/0f4048f4-5c6d-43f9-9a50-461d77845250" />
